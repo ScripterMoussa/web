@@ -1,0 +1,8 @@
+[
+  {"id":"r1","name":"Pro Racket 3000","brand":"AceSports","price":199.99,"image":"https://via.placeholder.com/600x400?text=Racket+1"},
+  {"id":"r2","name":"Speed Shoe X","brand":"Runner","price":129.50,"image":"https://via.placeholder.com/600x400?text=Shoes"},
+  {"id":"r3","name":"Grip Overgrip (3-pack)","brand":"StickIt","price":9.99,"image":"https://via.placeholder.com/600x400?text=Grips"},
+  {"id":"r4","name":"ClubLocker Tee","brand":"ClubLocker","price":24.99,"image":"https://via.placeholder.com/600x400?text=Tee"},
+  {"id":"r5","name":"Court Bag Pro","brand":"GearMax","price":79.0,"image":"https://via.placeholder.com/600x400?text=Bag"},
+  {"id":"r6","name":"Replacement Strings","brand":"Strung","price":34.5,"image":"https://via.placeholder.com/600x400?text=Strings"}
+]
